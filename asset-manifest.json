@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Memoreact/static/css/main.8222a209.chunk.css",
+    "main.js": "/Memoreact/static/js/main.64f4a1e5.chunk.js",
+    "main.js.map": "/Memoreact/static/js/main.64f4a1e5.chunk.js.map",
+    "runtime~main.js": "/Memoreact/static/js/runtime~main.01f4c209.js",
+    "runtime~main.js.map": "/Memoreact/static/js/runtime~main.01f4c209.js.map",
+    "static/js/2.5bfccd3c.chunk.js": "/Memoreact/static/js/2.5bfccd3c.chunk.js",
+    "static/js/2.5bfccd3c.chunk.js.map": "/Memoreact/static/js/2.5bfccd3c.chunk.js.map",
+    "index.html": "/Memoreact/index.html",
+    "precache-manifest.4b493714cefa8b27093b04faf378036f.js": "/Memoreact/precache-manifest.4b493714cefa8b27093b04faf378036f.js",
+    "service-worker.js": "/Memoreact/service-worker.js",
+    "static/css/main.8222a209.chunk.css.map": "/Memoreact/static/css/main.8222a209.chunk.css.map"
+  }
+}
