@@ -43,12 +43,17 @@ class App extends Component {
         clickedCharacters: [...this.state.clickedCharacters, x],
         score: this.state.score + 1
       })
-    } else {
+    } else if (this.state.score > this.state.topScore) {
       this.setState({
         clickedCharacters: [],
         score: 0,
         topScore: this.state.score
       })
+    } else {
+      this.setState({
+      clickedCharacters: [],
+      score: 0
+    })
     }
   }
 
